@@ -1,0 +1,33 @@
+{
+    "best_model_name": "Gradient Boosting",
+    "selection_criteria": "Highest Test F1-Score with ROC-AUC tie-breaker",
+    "performance_metrics": {
+        "Model": "Gradient Boosting",
+        "CV_Accuracy_Mean": 0.8488,
+        "CV_F1_Mean": 0.8118,
+        "CV_ROC_AUC_Mean": 0.9332,
+        "Test_Accuracy": 0.83,
+        "Test_Precision": 0.8,
+        "Test_Recall": 0.8,
+        "Test_Specificity": 0.8522,
+        "Test_F1_Score": 0.8,
+        "Test_ROC_AUC": 0.9003,
+        "TP": 68,
+        "TN": 98,
+        "FP": 17,
+        "FN": 17
+    },
+    "random_state": 42,
+    "target_mapping": {
+        "Not Suitable": 0,
+        "Suitable": 1
+    },
+    "all_ranked_models": [
+        "Gradient Boosting",
+        "Logistic Regression",
+        "Support Vector Machine",
+        "Random Forest",
+        "K-Nearest Neighbors",
+        "Decision Tree"
+    ]
+}

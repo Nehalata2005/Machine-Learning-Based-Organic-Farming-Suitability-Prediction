@@ -1,0 +1,42 @@
+{
+    "total_records": 1000,
+    "total_columns": 24,
+    "duplicate_rows": 0,
+    "missing_values_per_column": {
+        "Sample_ID": 0,
+        "State": 0,
+        "Soil_Type": 0,
+        "Crop": 0,
+        "pH": 0,
+        "Organic_Carbon_pct": 0,
+        "Available_N_kg_ha": 0,
+        "Available_P_kg_ha": 0,
+        "Available_K_kg_ha": 0,
+        "Available_S_mg_kg": 0,
+        "Available_Zn_mg_kg": 0,
+        "Available_Fe_mg_kg": 0,
+        "Available_Mn_mg_kg": 0,
+        "Available_Cu_mg_kg": 0,
+        "Available_B_mg_kg": 0,
+        "EC_dS_m": 0,
+        "Annual_Rainfall_mm": 0,
+        "Mean_Temperature_C": 0,
+        "Soil_Moisture_pct": 0,
+        "Previous_Fertilizer_Usage": 0,
+        "Previous_Pesticide_Usage": 0,
+        "Years_Chemical_Input": 0,
+        "Suitability_Score": 0,
+        "Organic_Farming_Suitability": 0
+    },
+    "has_missing_values": false,
+    "target_distribution": {
+        "Not Suitable": 577,
+        "Suitable": 423
+    },
+    "target_percentages": {
+        "Not Suitable": 57.7,
+        "Suitable": 42.3
+    },
+    "numerical_features_count": 16,
+    "categorical_features_count": 5
+}

@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE configs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary outputs
+tmp/
+scratch/
+VIVA_QUESTIONS_ANSWERS.md
