@@ -77,7 +77,7 @@ Using permutation importance on the held-out test data, the most influential fea
 ## 5. Project File Structure
 
 ```text
-Neha-project-ml/
+Machine-Learning-Based-Organic-Farming-Suitability-Prediction-main/
 |-- README.md                                # Project summary and instructions
 |-- requirements.txt                         # Required Python libraries
 |-- run_pipeline.py                          # Full machine learning pipeline runner
@@ -123,7 +123,7 @@ Neha-project-ml/
 
 ### 1. Activate Environment
 ```bash
-cd Neha-project-ml
+cd Machine-Learning-Based-Organic-Farming-Suitability-Prediction-main
 source .venv/bin/activate
 ```
 
